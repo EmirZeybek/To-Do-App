@@ -1,4 +1,4 @@
-Java implementation of a to do app.
+Java implementation of a to do app. (Personal Project)
 
 Mostly focused on using SQL effectively using a custom connector class.
 
